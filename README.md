@@ -14,7 +14,7 @@ Review this [checklist](./docs/pull_request_template.md) upon creating a PR and 
 
 ## Update your Operator
 
-Similarly, to update your operator you need to submit a PR with any changes to your Operator resources. Refere to our [contribution guide](docs/contributing.md#updating-your-existing-operator) for more details.
+Similarly, to update your operator you need to submit a PR with any changes to your Operator resources. Refer to our [contribution guide](docs/contributing.md#updating-your-existing-operator) for more details.
 
 ## Test your Operator
 
